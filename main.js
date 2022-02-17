@@ -12,4 +12,3 @@ let dato2 = parseInt(prompt ('Ingrese el segundo valor de la operación: '));
 alert(`El primer valor ingresado es: ${dato2}`);
 suma = dato1 + dato2;
 alert(`El resultado de la operaciòn suma es: ${suma}`);
-
