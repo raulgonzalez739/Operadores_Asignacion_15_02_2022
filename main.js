@@ -14,5 +14,7 @@ alert(`El primer valor ingresado es: ${dato2}`);
 // alert(`El resultado de la operaciòn suma es: ${suma}`);
 // resta = dato1 - dato2;
 // alert(`El resultado de la operaciòn resta es: ${resta}`);
-div = dato1/dato2;
-alert(`EL resultado de la operación división es: ${div}`)
+// div = dato1/dato2;
+// alert(`EL resultado de la operación división es: ${div}`);
+mult = dato1*dato2;
+alert(`EL resultado de la operación multiplicación es: ${mult}`);
